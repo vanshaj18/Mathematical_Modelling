@@ -1,5 +1,7 @@
 ## Description of the course_work
-The repo contains python scripts as part of personal additional work on part of the course work in spring 2021 taught by Professor Ameeya Kumar Nayak, Department of Applied Mathematics and Computing, IIT Rookree. The course Mathematical Modelling aimed to teach the different techniques to construct mathematical models using finite difference method for different models. The model studied in the course contains
+The repo contains python scripts as part of personal additional work on part of the course work in spring 2021 taught by  [Professor Ameeya Kumar Nayak](https://www.iitr.ac.in/~MA/Ameeya__Kumar_Nayak), Department of Applied Mathematics and Computing, IIT Rookree
+
+The course Mathematical Modelling aimed to teach the different techniques to construct mathematical models using finite difference method for different models. The model studied in the course contains
 1. Population dynamics
 2. Fibonacci models
 3. Linear cell divison model
